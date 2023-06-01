@@ -1,6 +1,7 @@
 = Joshua Reynolds
-:title: Technical Leadership, a Joshua Reynolds story
-:description: The trials and tribulations of a human boy yearning to be free
+:title: Joshua Reynolds - CV
+:description: The compelling tale of one human's journey to the moment you are reading this with selected flattering highlights. Enjoy!
+
 _technical leadership_
 
 == about
