@@ -1,121 +1,172 @@
-Joshua Reynolds
-Technical Leadership
+= Joshua Reynolds
+:title: Technical Leadership, a Joshua Reynolds story
+:description: The trials and tribulations of a human boy yearning to be free
+_technical leadership_
 
-Den Haag, NL
-+31 (0)	6 11 59 66 89 
+== about
+With 15+ years of success building great digital products around the world, I lead with compassion and by example. I'll jump in the trenches with the rest of the team whenever needed and bring clear strategy to help us steer safely through the turbulent waters of the digital sea. My tools of choice are evidence, empathy, clear and dynamic communication, a growth mindset and a ridiculously colorful terminal theme.
 
-With 15+ years of success building great digital products around the world, I lead with compassion and by example. I'll jump in the trenches with the rest of the team whenever needed and bring clear strategy to help us steer safely through the turbulent waters of the digital sea. My tools of choice are evidence, empathy, clear and dynamic communication and a growth mindset.
+== value
 
-What I deliver:
-
-* Rock solid scalable software through robust architecture and design, agile footing, and experienced application of modern software wisdom
+* Scalable software through robust architecture and design, agile footing, thoughtful crumple zones and the experienced application of modern software wisdom
 * Powerful communication skills to build shared understanding between business and technical stakeholders and effectively connect with our customers and clients
 * Staff development through establishing honest self-evaluation and learning and coaching as a core norms
 * A trusting environment where diversity and self-expression is encouraged and connection and common ground are celebrated
 * Increased energy and joy in the workplace
 * A sincere willingness to be wrong and learn from it
 
-WORK EXPERIENCE
-  * March 2020
-    DevOps Leadership at The Electric Hand Ltd., Remote
-      During the pandemic I’ve been working as a core team member for a former client’s stealth-mode startup in a mostly technical role.
+== experience
 
-The work has been very scrappy and hands on -- startup style! -- meaning I do whatever needs doing and fill any gaps that arise.   For the last few months there's been a heavy focus on DevOps technical architecture and implementation.  
+=== Software Architect / People Manager - bettermarks, GmbH, Den Haag
+_Jan 2021 - Present_
+
+I joined bettermarks to refine and clarify the "big picture" and improve the quality of interdependencies in our techncial and social systems. My goal is to foster an environment that allows us to do what we want more effectively AND efficiently.
+
+Much of my time is helping create shared understanding and meaning inside of and between our teams and the systems they curate.
+
+==== key outcomes
+
+Led AWS account migration from adhoc to AWS Organzations and developer access to SSO and implmented using IaC. *_cdk, TypeScript, AWS, AWS CloudFormation_*
+
+Led data breach incident response, and created mitigation strategy and adoption of MFA across the organization.  Continued security improvements by migrating shared accounts and personal credentials to SSO provisioned Bitwarden service and onboarding and training of all impacted staff. *_AzureAD, Bitwarden_*
+
+Refactored and continue to support improvements to local developer stack environment. Implemented support for Apple M1 architecture based machines. *_docker, docker-compose, kong, bash, asciidoc_*
+
+Wrote and delivered hands-on pact-based testing workshop and evangelized migrating to pact for microservice testing in the organization *_Pact, Python, TypeScript_*
+
+=== DevOps Leadership at The Electric Hand Ltd., Remote
+_March 2020 - Dec 2021_
+
+During the pandemic I've been working as a core team member for a former client's stealth-mode startup in a mostly technical role.
+
+The work was very scrappy and hands on -- startup style! -- meaning I did whatever needed doing and filled any gaps that arose. For the last few months there's been a heavy focus on DevOps technical architecture and implementation.
 
 * Design/Creation of CI/CD architecture and pipelines
+* Design and integration of NLP pipeline for conversational task creation
 * Unit and System testing and test automation design
 * Migration to Typescript
 * Helm/Kubernetes design/deployment
 * Google Cloud Platform architecture/deployment
-* Terraform infrastructure
+* Terraform infrastructure implementation
 
-  * October 2016 – March 2020
-    Principal Consultant -- Engineering & Product Mgmt at Reaktor, Inc, New York City
-      Recruited to this Finland-based digital strategy, design, and technology consultancy for strong architectural and technical acumen, a growth mindset, and superior communications skills to lead large-scale digital technology product development and project teams, spearhead internal development, and coach internal staff.
-
-  Led the creation a web application/data pipeline product to aggregate 100M records of daily Nielson viewing data.  This provided Viacom’s sales team with real time information to support their sales process, reducing research request turnaround time from up to 6 days to less than a minute. React/Typescript/Python/Pandas/GraphQL/Databricks
-  Led a high-performance cross-functional team to create a novel hybrid application and build out a multichannel education platform. Managed the design of a supporting application development training module and trained and coached the client’s teams on the methodology and approach. React/React Native/Node.js
-  Coached team members to find innovative ways to approach and attain their workplace goals -- One developer coachee  pursued his ambition into a sales role which lead to him winning a $250K contract for the business
-  Built successful partnerships with NYU and the 3 NYC libraries to deliver Reaktor's Elements of AI to the public through a flipped classroom by including it as a key pillar of the NYU proposed Center for Responsible AI
-  Created a regular forum to provide employees a safe arena to voice issues, encourage open conversation, and plan improvements of the culture
+=== Principal Consultant -- Engineering & Product Mgmt at Reaktor, Inc, New York City
+_October 2016 - March 2020_
 
 
-  * May 2015 – September 2016
-    CTO | Cofounder at Bloopco, Inc., Los Angeles
-      Built this innovative health tech company from the ground up and successfully developed an app that leveraged biometrics to foster and encourage healthy behaviors through game play. 
+Recruited to this Finland-based digital strategy, design, and technology consultancy for strong architectural and technical acumen, a growth mindset, and superior communications skills to lead large-scale digital technology product development and project teams, spearhead internal development, and coach internal staff.
 
-  Drove the entire go-to-market strategy, including prototyping the technology and product research and buildout.
-  Developed and implemented a heart rate algorithm that detected stress reduction to identify the impact of stress reducing breathing techniques.
-  Designed and developed our signature game "The Way of the Bow" and created a swift animation library to extend limited iOS functionality.
-  Produced the first app on the Apple Watch to use biometric data as game controls
+==== key outcomes
+Led the creation a web application/data pipeline product to aggregate and transform 100M records of daily Nielson viewing data into an query optimized data store.  This provided Viacom's sales team with real time information to support their sales process, reducing research request turnaround time from up to 6 days to less than a minute. *_React, Typescript, Python, Pandas, GraphQL, Databricks_*
 
 
-
-  * August 2006 – May 2015
-    Principal Consultant at The Electric Hand Ltd., New York City
-      Led the start-up of this digital consultancy and high-quality video production company, serving the software and entertainment industries. Managed all daily operations within a highly competitive market and drove product development, engineering, and video production. 
-
-  Hired, trained, and mentored a team of junior developers and grew technical skills to deliver significant upgrades on a challenging legacy product
-  Edited the last 2 seasons of Futurama, earning recognition for editing excellence
-  Drove a huge reduction in technical debt for a legacy Java/J2EE application, lowering licensing costs for the client $100K+ and implemented a modern continuous integration/continuous delivery pipeline to ensure stability and code quality
-
-Product Highlights
-
-  Led full architecture and development of a Flask Application for microsubscriptions to support ad free journalism.  Flask/python/Stripe/PostgreSQL
-  Designed and built a risk analysis product using Bayesian mathematics to help predict risk of software project failure. SPA and Django backed API and integrated with numpy for advanced mathematical modeling capabilities  Angular/Django/numpy/pandas/python
+Led a high-performance cross-functional team to create a novel hybrid application and build out a multichannel education platform. Managed the design of a supporting application development training module and trained and coached the client's teams on the methodology and approach. *_React, React Native, Node.js_*
 
 
-  * June 2004 – February 2006
-    Software Development Manager at Innodata Isogen, Gurgaon, India
-      Led the Professional Services division and managed the Professional Services Team in India in the execution of complex technical projects, including requirements gathering, design, development and integration of structured data for Fortune 500 clients.
-
-  Transformed the under-performing professional services division into a high-caliber team while growing staff from 4 to 17 professionals.
-  Increased staff satisfaction leading to 100% retention in a highly competitive hiring environment.
-  Integrated a culture of mentorship and cross-team learning to introduce Agile skills, improve project success, and enhance customer satisfaction.
+Built successful partnerships with NYU and the 3 NYC libraries to deliver Reaktor's Elements of AI to the public through a flipped classroom by including it as a key pillar of the NYU proposed Center for Responsible AI
 
 
-  * June 2000 – June 2004
-    Senior Developer at Innodata Isogen, Austin, TX
-      Key member implementing a standards based versioned hyperdocument management system which supported versioned linking, compound documents, and single-source/snapshot based publishing.
-
-The product supported publishing highly versioned, compound documents, aircraft manuals, and military parts equipment drill downs through Interactive Electronic Technical Manuals (IETMs) .  XML, XSLT, XSL:FO, Python, ZODB, C, XP
+Created a regular forum to provide employees a safe arena to voice issues, encourage open conversation, and plan improvements of the culture and systems
 
 
-EDUCATION
-  * 
-    University of Minnesota, Minneapolis Bachelors Of Mathematics
+Coached team members to find innovative ways to approach and attain their workplace goals -- One developer coachee pursued his ambition into a sales role which lead to him winning a $250K contract for the business
 
-CERTIFICATIONS 
-  * Certified LeSS Practioner, , 
-  * Neuroleadership Institute Certified Brain-Based Coach, , 
-  * Certified VitalSmarts Crucial Conversations Trainer , , 
-  * Certified Coastal Kayak Trip Leader, , 
 
-PERSONAL INFORMATION
-  Address: , Den Haag, NL, 
-  Hobbies: Avid Sea Kayaker in and around the New York Harbor – I circumnavigated Manhattan! 
+=== CTO | Cofounder at Bloopco, Inc., Los Angeles
+_May 2015 - September 2016_
 
-Professional Animation Editor on Futurama, Metalocalypse, The Great Schlep
+Built this innovative health tech company from the ground up and successfully developed an app that leveraged biometrics to foster and encourage healthy behaviors through game play. 
 
-SOCIAL PROFILES
-  * Linkedin: https://www.linkedin.com/in/jshreynolds/
+==== key outcomes
+Drove the entire go-to-market strategy, including prototyping the technology and product research and buildout.
 
-KEY SKILLS
-  Decision-making
-  Active Listening
-  Agile Methodologies
-  Product Development
-  Coaching and Mentoring
-  Software Development
-  Software Architecture
-  Automated Testing
-  Cloud Computing
-  Facilitation
-  Recruiting
-  Data Science
-  Systems Thinking
-  DevOps
-  Python
-  Java
-  Swift
-  Nonviolent Communication
+
+Developed and implemented a heart rate algorithm that detected stress reduction to identify the impact of stress reducing breathing techniques.
+
+
+Designed and developed our signature game "The Way of the Bow" and created a swift animation library to extend limited iOS functionality.
+
+
+Produced the first app on the Apple Watch to use biometric data as game controls
+
+
+=== Principal Consultant at The Electric Hand Ltd., New York City
+_August 2006 - May 2015_
+
+Led the start-up of this digital consultancy / high-quality video production company, serving the software and entertainment industries. Managed all daily operations within a highly competitive market and drove product development, engineering, and video production.
+
+==== key projects
+Hired, trained, and mentored a team of junior developers and grew technical skills to deliver significant upgrades on a challenging legacy product
+
+
+Edited the last 2 seasons of Futurama, earning recognition for editing excellence
+
+
+Drove a huge reduction in technical debt for a legacy Java/J2EE application, lowering licensing costs for the client $100K+ and implemented a modern continuous integration/continuous delivery pipeline to ensure stability and code quality *_Java/Scala/Play/J2EE/Ant/Maven_*
+
+
+Led full architecture and development of a Flask Application for microsubscriptions to support ad free journalism. *_Flask/python/Stripe/PostgreSQL_*
+
+
+Designed and built a risk analysis product using Bayesian mathematics to help predict risk of software project failure. SPA and Django backed API and integrated with numpy for advanced mathematical modeling capabilities *_Angular/Django/numpy/pandas/python_*
+
+
+=== Senior Developer / Software Development Manager at Innodata Isogen, Austin, TX & Gurgaon, India
+_June 2000 - February 2006_
+Led the Professional Services division and managed the Professional Services Team in India in the execution of complex technical projects, including requirements gathering, design, development and integration of structured data for Fortune 500 clients.
+
+==== key outcomes
+Transformed the under-performing professional services division into a high-caliber team while growing staff from 4 to 17 professionals.
+
+
+Increased staff satisfaction leading to 100% retention during my tenure in a highly competitive hiring environment.
+
+
+Integrated a culture of mentorship and cross-team learning to introduce Agile skills, improve project success, and enhance customer satisfaction.
+
+
+Key member implementing a standards based versioned hyperdocument management system which supported versioned linking, compound documents, and single-source/snapshot based publishing.
+
+The product supported publishing highly versioned, compound documents, aircraft manuals, and military parts equipment drill downs through Interactive Electronic Technical Manuals (IETMs) . *_XML, XSLT, XSL:FO, Python, ZODB, C, XP_*
+
+== keyworldy skills
+* Software Development
+* Software Architecture
+* eXtreme Programming
+* Automated Testing
+* Cloud Computing
+* Facilitation
+* Recruiting
+* Data Science
+* Systems Thinking
+* DevOps
+* Python
+* Java
+* Swift
+* Nonviolent Communication
+* Decision-making
+* Active Listening
+* Agile Methodologies
+* Product Development
+* Coaching and Mentoring
+
+== education
+University of Minnesota, Minneapolis Bachelors Of Mathematics
+
+== certifications 
+* Certified LeSS Practioner
+* Neuroleadership Institute Certified Brain-Based Coach
+* Certified VitalSmarts Crucial Conversations Trainer
+* Certified Coastal Kayak Trip Leader
+
+== personal deets
+
+location:: Den Haag, NL,
+hobbies:: 
+
+* Avid Sea Kayaker in and around the New York Harbor - I circumnavigated Manhattan!
+* omafiets riding incredibly long distances
+* string processing in rust
+
+== socials
+linkedIn:: https://www.linkedin.com/in/jshreynolds/
+

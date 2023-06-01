@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "resumé"
+version = "0.1.0"
+description = "Asciidoc version of my resumé"
+authors = ["Joshua Reynolds <jreynolds@electrichand.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.group.dev.dependencies]
+dagger-io = "^0.6.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
