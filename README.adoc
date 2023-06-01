@@ -21,9 +21,10 @@ With 15+ years of success building great digital products around the world, I le
 === Software Architect / People Manager - bettermarks, GmbH, Den Haag
 _Jan 2021 - Present_
 
-I joined bettermarks to refine and clarify the "big picture" and improve the quality of interdependencies in our techncial and social systems. My goal is to foster an environment that allows us to do what we want more effectively AND efficiently.
+I joined bettermarks to focus more on "big picture" improvements. Here i seek to increase the organzation's capacity for self-awareness and learning through improving the quality of our techncial and social systems.  This includes identifying and establishing feedback loops in both software -- ci, unit tests, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more.
 
-Much of my time is helping create shared understanding and meaning inside of and between our teams and the systems they curate.
+The ultimate goal is to achieve our shared dreams more effectively AND efficiently by using our understanding of technology and each other to make better decisions and learn from the ones that don't work out.  Also I try to help us have fun while doing it, too!
+
 
 ==== key outcomes
 
@@ -34,6 +35,9 @@ Led data breach incident response, and created mitigation strategy and adoption 
 Refactored and continue to support improvements to local developer stack environment. Implemented support for Apple M1 architecture based machines. *_docker, docker-compose, kong, bash, asciidoc_*
 
 Wrote and delivered hands-on pact-based testing workshop and evangelized migrating to pact for microservice testing in the organization *_Pact, Python, TypeScript_*
+
+Rolled out and deepened practice of Radical Candor.  I'm not beholden to the framework, but it's a really nice and simple model and a great starting point for some shared reality around giving and receiving feedback.
+
 
 === DevOps Leadership at The Electric Hand Ltd., Remote
 _March 2020 - Dec 2021_
@@ -136,6 +140,7 @@ The product supported publishing highly versioned, compound documents, aircraft 
 * Automated Testing
 * Cloud Computing
 * Facilitation
+* Metacognition
 * Recruiting
 * Data Science
 * Systems Thinking
