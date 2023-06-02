@@ -21,9 +21,8 @@ With 15+ years of success building great digital products around the world, I le
 === Software Architect / People Manager - bettermarks, GmbH, Den Haag
 _Jan 2021 - Present_
 
-I joined bettermarks to focus more on "big picture" improvements. Here i seek to increase the organzation's capacity for self-awareness and learning through improving the quality of our techncial and social systems.  This includes identifying and establishing feedback loops in both software -- ci, unit tests, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more.
+I joined bettermarks to focus more on broad impact work. I improve the organzation's capacity for self-awareness and learning by improving the effectiveness of our techncial and social systems.  This includes identifying and establishing productive feedback loops in both software -- build systems, unit tests, development environmens, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more. I am very hands-on and use my deep practioner's expererience to help us stay grounded and appropriately whelmed as we give it a go!
 
-The ultimate goal is to achieve our shared dreams more effectively AND efficiently by using our understanding of technology and each other to make better decisions and learn from the ones that don't work out.  Also I try to help us have fun while doing it, too!
 
 
 ==== key outcomes
@@ -39,12 +38,14 @@ Wrote and delivered hands-on pact-based testing workshop and evangelized migrati
 Rolled out and deepened practice of Radical Candor.  I'm not beholden to the framework, but it's a really nice and simple model and a great starting point for some shared reality around giving and receiving feedback.
 
 
-=== DevOps Leadership at The Electric Hand Ltd., Remote
+=== DevOps Leadership at Untasked, Remote
 _March 2020 - Dec 2021_
 
-During the pandemic I've been working as a core team member for a former client's stealth-mode startup in a mostly technical role.
+During the pandemic I worked as a core team member of the technical staff of Untasked.
 
-The work was very scrappy and hands on -- startup style! -- meaning I did whatever needed doing and filled any gaps that arose. For the last few months there's been a heavy focus on DevOps technical architecture and implementation.
+The work was very scrappy and hands on -- startup style! -- meaning I did whatever needed doing and filled any gaps that arose. Ulimately my focus was on DevOps technical architecture and implementation with some full stack development thrown in when needed.
+
+==== key projects
 
 * Design/Creation of CI/CD architecture and pipelines
 * Design and integration of NLP pipeline for conversational task creation
