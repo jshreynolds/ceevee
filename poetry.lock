@@ -136,14 +136,14 @@ files = [
 
 [[package]]
 name = "dagger-io"
-version = "0.6.0"
+version = "0.6.1"
 description = "A client package for running Dagger pipelines in Python."
 category = "dev"
 optional = false
 python-versions = ">=3.10,<4.0"
 files = [
-    {file = "dagger_io-0.6.0-py3-none-any.whl", hash = "sha256:d10abf5132983853fb50bf4f38cd771035a9ab975f78070362e4fb077925b170"},
-    {file = "dagger_io-0.6.0.tar.gz", hash = "sha256:44a310318bbc6947c3360e9592d6d9a32b4b174f4ffe9d240168a9db5d9cd24b"},
+    {file = "dagger_io-0.6.1-py3-none-any.whl", hash = "sha256:41f9283374a4880fdbb2b3d0adbb5c39f727f50d1c9603044647204d36dc0d6d"},
+    {file = "dagger_io-0.6.1.tar.gz", hash = "sha256:b33340fdc35f7ec5c8955e0e734553956495bf87b91bc77dc3b3ccc1661711a5"},
 ]
 
 [package.dependencies]
