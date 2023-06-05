@@ -5,9 +5,9 @@
 _technical leadership_
 
 == about
-With 15+ years of success building great digital products around the world, I lead with compassion and by example. I'll jump in the trenches with the rest of the team whenever needed and bring clear strategy to help us steer safely through the turbulent waters of the digital sea. My tools of choice are evidence, empathy, clear and dynamic communication, a growth mindset and a ridiculously colorful terminal theme.
+With years of success building great digital products around the world, I lead with compassion and by example. I'll jump in the code with the rest of the team whenever needed and bring strategic thinking to steer us safely through the turbulent waters of the digital sea. My tools of choice are evidence, empathy, clear and dynamic communication, a growth mindset and a ridiculously colorful terminal theme.
 
-== value
+== offerings
 
 * Scalable software through robust architecture and design, agile footing, thoughtful crumple zones and the experienced application of modern software wisdom
 * Powerful communication skills to build shared understanding between business and technical stakeholders and effectively connect with our customers and clients
@@ -18,20 +18,19 @@ With 15+ years of success building great digital products around the world, I le
 
 == experience
 
-=== Software Architect / People Manager - bettermarks, GmbH, Den Haag
+=== Software Architect / People Manager - bettermarks, GmbH, Berlin/Den Haag
 _Jan 2021 - Present_
 
-I joined bettermarks to focus more on broad impact work. I improve the organzation's capacity for self-awareness and learning by improving the effectiveness of our techncial and social systems.  This includes identifying and establishing productive feedback loops in both software -- build systems, unit tests, development environmens, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more. I am very hands-on and use my deep practioner's expererience to help us stay grounded and appropriately whelmed as we give it a go!
-
+Joined this adapative math software company to practice broad impact work and improve the organzation's capacity for self-awareness and learning by improving the effectiveness of our techncial and social systems.  This includes identifying and establishing productive feedback loops in both software -- build systems, unit tests, development environments, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more. I am hands-on and use my deep practioner's expererience to help us stay grounded and appropriately whelmed as we give it a go!
 
 
 ==== key outcomes
 
 Led AWS account migration from adhoc to AWS Organzations and developer access to SSO and implmented using IaC. *_cdk, TypeScript, AWS, AWS CloudFormation_*
 
-Led data breach incident response, and created mitigation strategy and adoption of MFA across the organization.  Continued security improvements by migrating shared accounts and personal credentials to SSO provisioned Bitwarden service and onboarding and training of all impacted staff. *_AzureAD, Bitwarden_*
+Led data breach incident response, and created mitigation strategy and adoption of MFA across the organization.  Continued security improvements by migrating shared accounts and personal credentials to SSO provisioned Bitwarden service and onboarding and training of impacted staff. *_AzureAD, Bitwarden_*
 
-Refactored and continue to support improvements to local developer stack environment. Implemented support for Apple M1 architecture based machines. *_docker, docker-compose, kong, bash, asciidoc_*
+Refactored and supported improvements to local developer stack environment. Implemented support for Apple M1 architecture based machines. *_docker, docker-compose, kong, bash, asciidoc_*
 
 Wrote and delivered hands-on pact-based testing workshop and evangelized migrating to pact for microservice testing in the organization. *_Pact, Python, TypeScript_*
 
@@ -41,21 +40,21 @@ Rolled out and deepened practice of Radical Candor.  I'm not beholden to the fra
 === DevOps Leadership at Untasked, Remote
 _March 2020 - Dec 2021_
 
-During the pandemic I worked as a core team member of the technical staff of Untasked.
+Helped establish the foundations of DevOps mindset and toolset and productivity software startup Untasked.
 
-The work was very scrappy and hands on -- startup style! -- meaning I did whatever needed doing and filled any gaps that arose. Ulimately my focus was on DevOps technical architecture and implementation with some full stack development thrown in when needed.
+The work was very scrappy and hands on meaning I did whatever needed doing and filled any gaps that arose. My primary focus was on DevOps technical architecture and implementation with some full stack development thrown in when needed.
 
-==== key projects
+==== key contributions
 
-* Design/Creation of CI/CD architecture and pipelines
-* Design and integration of NLP pipeline for conversational task creation
-* Unit and System testing and test automation design
-* Migration to Typescript
-* Helm/Kubernetes design/deployment
-* Google Cloud Platform architecture/deployment
-* Terraform infrastructure implementation
+* Designed/Created all CI/CD architecture and pipelines
+* Designed and integrated NLP pipeline for conversational task creation
+* Created Unit and System tests and designed test automation framework
+* Migration codebase from JavaScript to TypeScript
+* Designed and Deployed Helm based Kubernetes infrastructure
+* Architected, integrated and deployed to Google Cloud Platform
+* Designed and implemented Terraform infrastructure components
 
-=== Principal Consultant -- Engineering & Product Mgmt at Reaktor, Inc, New York City
+=== Principal Engineer / Consultant -- Engineering & Product Mgmt at Reaktor, Inc, New York City
 _October 2016 - March 2020_
 
 
