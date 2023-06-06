@@ -21,12 +21,12 @@ With years of success building great digital products around the world, I lead w
 === Software Architect / People Manager - bettermarks, GmbH, Berlin/Den Haag
 _Jan 2021 - Present_
 
-Joined this adapative math software company to practice broad impact work and improve the organzation's capacity for self-awareness and learning by improving the effectiveness of our techncial and social systems.  This includes identifying and establishing productive feedback loops in both software -- build systems, unit tests, development environments, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more. I am hands-on and use my deep practioner's expererience to help us stay grounded and appropriately whelmed as we give it a go!
+Joined this adaptive math software company to practice broad impact work and improve the organization's capacity for self-awareness and learning by improving the effectiveness of our technical and social systems.  This includes identifying and establishing productive feedback loops in both software -- build systems, unit tests, development environments, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more. I am hands-on and use my deep practitioner's experience to help us stay grounded and appropriately whelmed as we give it a go!
 
 
 ==== key outcomes
 
-Led AWS account migration from adhoc to AWS Organzations and developer access to SSO and implmented using IaC. *_cdk, TypeScript, AWS, AWS CloudFormation_*
+Led AWS account migration from adhoc to AWS Organizations and developer access to SSO and implemented using IaC. *_cdk, TypeScript, AWS, AWS CloudFormation_*
 
 Led data breach incident response, and created mitigation strategy and adoption of MFA across the organization.  Continued security improvements by migrating shared accounts and personal credentials to SSO provisioned Bitwarden service and onboarding and training of impacted staff. *_AzureAD, Bitwarden_*
 
@@ -40,7 +40,7 @@ Rolled out and deepened practice of Radical Candor.  I'm not beholden to the fra
 === DevOps Leadership at Untasked, Remote
 _March 2020 - Dec 2021_
 
-Helped establish the foundations of DevOps mindset and toolset and productivity software startup Untasked.
+Helped establish the foundations of DevOps mindset and tool-set and productivity software startup Untasked.
 
 The work was very scrappy and hands on meaning I did whatever needed doing and filled any gaps that arose. My primary focus was on DevOps technical architecture and implementation with some full stack development thrown in when needed.
 
@@ -54,7 +54,7 @@ The work was very scrappy and hands on meaning I did whatever needed doing and f
 * Architected, integrated and deployed to Google Cloud Platform
 * Designed and implemented Terraform infrastructure components
 
-=== Principal Engineer / Consultant -- Engineering & Product Mgmt at Reaktor, Inc, New York City
+=== Principal Engineer / Consultant -- Engineering & Product Management at Reaktor, Inc, New York City
 _October 2016 - March 2020_
 
 
@@ -159,7 +159,7 @@ The product supported publishing highly versioned, compound documents, aircraft 
 University of Minnesota, Minneapolis Bachelors Of Mathematics
 
 == certifications 
-* Certified LeSS Practioner
+* Certified LeSS Practitioner
 * Neuroleadership Institute Certified Brain-Based Coach
 * Certified VitalSmarts Crucial Conversations Trainer
 * Certified Coastal Kayak Trip Leader
