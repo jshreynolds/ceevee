@@ -7,7 +7,7 @@ _technical leadership_
 == about
 With years of success building great digital products around the world, I lead with compassion and by example. I'll jump in the code with the rest of the team whenever needed and bring strategic thinking to steer us safely through the turbulent waters of the digital sea. My tools of choice are evidence, empathy, clear and dynamic communication, a growth mindset and a ridiculously colorful terminal theme.
 
-== offerings
+== offering
 
 * Scalable software through robust architecture and design, agile footing, thoughtful crumple zones and the experienced application of modern software wisdom
 * Powerful communication skills to build shared understanding between business and technical stakeholders and effectively connect with our customers and clients
@@ -26,11 +26,13 @@ Joined this adaptive math software company to practice broad impact work and imp
 
 ==== key outcomes
 
-Led AWS account migration from adhoc to AWS Organizations and developer access to SSO and implemented using IaC. *_cdk, TypeScript, AWS, AWS CloudFormation_*
+Pioneered development of company-wide System Design Documentation.  Instituted diagrams as code, arc42 architectural structure and version controlled Architectural Decision Records (ADRs) to better visualize, document and communicate high level architecture of complex and complicated subsystems and domains and support better "big picture" decision-making *_C4, structurizr, Asciidoc, arc42_*
 
-Led data breach incident response, and created mitigation strategy and adoption of MFA across the organization.  Continued security improvements by migrating shared accounts and personal credentials to SSO provisioned Bitwarden service and onboarding and training of impacted staff. *_AzureAD, Bitwarden_*
+Architected AWS Organization and SSO design and led migration from haphazard legacy user accounts and permission to clean IaC implemented approach. *_cdk, TypeScript, AWS, AWS CloudFormation_*
 
-Refactored and supported improvements to local developer stack environment. Implemented support for Apple M1 architecture based machines. *_docker, docker-compose, kong, bash, asciidoc_*
+Led data breach incident response, and created mitigation strategy and adoption of MFA and additional security policies across the organization.  Continued security improvements by migrating shared accounts and personal credentials to SSO provisioned Bitwarden service and onboarding and training of impacted staff. *_AzureAD, Bitwarden_*
+
+Refactored and supported improvements to local developer stack environment. Implemented support for Apple M1 architecture based machines. *_docker, docker-compose, kong, bash, nginx, asciidoc_*
 
 Wrote and delivered hands-on pact-based testing workshop and evangelized migrating to pact for microservice testing in the organization. *_Pact, Python, TypeScript_*
 
