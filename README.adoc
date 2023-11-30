@@ -5,30 +5,31 @@
 _technical leadership_
 
 == about
-With years of success building great digital products around the world, I lead with compassion and by example. I'll jump in the code with the rest of the team whenever needed and bring strategic thinking to steer us safely through the turbulent waters of the digital sea. My tools of choice are evidence, empathy, clear and dynamic communication, a growth mindset and a ridiculously colorful terminal theme.
+With years of success building great digital products around the world, I lead with compassion and by example. I love shipping high quality code with the rest of the team while bringing strategic thinking to steer us safely through the turbulent waters of the digital sea. My tools of choice are deep technical know-how, evidence, empathy, clear and dynamic communication, a growth mindset and a colorful terminal theme.
 
 == offering
 
-* Scalable software through robust architecture and design, agile footing, thoughtful crumple zones and the experienced application of modern software wisdom
+* Highly available software systems through robust architecture and design, agile footing, thoughtful crumple zones and the experienced application of modern software wisdom
 * Powerful communication skills to build shared understanding between business and technical stakeholders and effectively connect with our customers and clients
 * Staff development through establishing honest self-evaluation and learning and coaching as a core norms
-* A trusting environment where diversity and self-expression is encouraged and connection and common ground are celebrated
+* A trusting environment where diversity and self-expression are encouraged and connection and common ground are celebrated
 * Increased energy and joy in the workplace
 * A sincere willingness to be wrong and learn from it
+* Fun
 
 == experience
 
 === Software Architect / People Manager - bettermarks, GmbH, Berlin/Den Haag
 _Jan 2021 - Present_
 
-Joined this adaptive math software company to practice broad impact work and improve the organization's capacity for self-awareness and learning by improving the effectiveness of our technical and social systems.  This includes identifying and establishing productive feedback loops in both software -- build systems, unit tests, development environments, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more. I am hands-on and use my deep practitioner's experience to help us stay grounded and appropriately whelmed as we give it a go!
+Joined this adaptive math software company to practice broad impact work and improve the organization's capacity for self-awareness and learning by improving the effectiveness of our technical and social systems.  This includes identifying and establishing productive feedback loops in both software -- build systems, unit tests, development environments, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more. I am hands-on and use my deep practitioner's experience to help us stay grounded and appropriately "whelmed" as we give it a go!
 
 
 ==== key outcomes
 
 Pioneered development of company-wide System Design Documentation.  Instituted diagrams as code, arc42 architectural structure and version controlled Architectural Decision Records (ADRs) to better visualize, document and communicate high level architecture of complex and complicated subsystems and domains and support better "big picture" decision-making *_C4, structurizr, Asciidoc, arc42_*
 
-Architected AWS Organization and SSO design and led migration from haphazard legacy user accounts and permission to clean IaC implemented approach. *_cdk, TypeScript, AWS, AWS CloudFormation_*
+Architected AWS Organization and SSO design and led migration from haphazard legacy user accounts and permissions to clean IaC implemented approach. *_cdk, TypeScript, AWS, AWS CloudFormation_*
 
 Led data breach incident response, and created mitigation strategy and adoption of MFA and additional security policies across the organization.  Continued security improvements by migrating shared accounts and personal credentials to SSO provisioned Bitwarden service and onboarding and training of impacted staff. *_AzureAD, Bitwarden_*
 
@@ -36,15 +37,15 @@ Refactored and supported improvements to local developer stack environment. Impl
 
 Wrote and delivered hands-on pact-based testing workshop and evangelized migrating to pact for microservice testing in the organization. *_Pact, Python, TypeScript_*
 
-Rolled out and deepened practice of Radical Candor.  I'm not beholden to the framework, but it's a really nice and simple model and a great starting point for some shared reality around giving and receiving feedback.
+Rolled out and deepened practice of Radical Candor.  Although I'm not beholden to the framework, it's a nice and simple model for giving and receiving feedback.
 
 
-=== DevOps Leadership at Untasked, Remote
+=== DevOps Leadership at Untasked, Remote, US
 _March 2020 - Dec 2021_
 
-Helped establish the foundations of DevOps mindset and tool-set and productivity software startup Untasked.
+Helped establish the DevOps mindset, tool-set, and practices at the productivity software startup Untasked.
 
-The work was very scrappy and hands on meaning I did whatever needed doing and filled any gaps that arose. My primary focus was on DevOps technical architecture and implementation with some full stack development thrown in when needed.
+The work was **very** scrappy & hands-on.  I did whatever needed doing and filled any gaps that arose. My primary focus was on DevOps technical architecture and implementation with some full stack development thrown in when needed.
 
 ==== key contributions
 
@@ -84,7 +85,7 @@ _May 2015 - September 2016_
 Built this innovative health tech company from the ground up and successfully developed an app that leveraged biometrics to foster and encourage healthy behaviors through game play.
 
 ==== key outcomes
-Drove the entire go-to-market strategy, including prototyping the technology and product research and buildout.
+Drove the entire go-to-market strategy, including prototyping the technology and product research and build-out.
 
 
 Developed and implemented a heart rate algorithm that detected stress reduction to identify the impact of stress reducing breathing techniques.
@@ -99,13 +100,13 @@ Produced the first app on the Apple Watch to use biometric data as game controls
 === Principal Consultant at The Electric Hand Ltd., New York City
 _August 2006 - May 2015_
 
-Led the start-up of this digital consultancy / high-quality video production company, serving the software and entertainment industries. Managed all daily operations within a highly competitive market and drove product development, engineering, and video production.
+Led the start-up of this digital consultancy, serving the software and entertainment industries. Managed all daily operations within a highly competitive markets and drove product development, engineering, and video production.
 
 ==== key projects
-Hired, trained, and mentored a team of junior developers and grew technical skills to deliver significant upgrades on a challenging legacy product.
+Hired, trained, and mentored a team of junior developers and grew technical skills to deliver significant upgrades on a challenging legacy product. *_Java/Scala/Play/J2EE/Ant/Maven_*
 
 
-Edited the last 2 seasons of Futurama, earning recognition for editing excellence.
+Edited the last 2 seasons of Futurama, earning recognition for editing excellence. *_Final Cut Pro/Adobe After Effects/Adobe Photoshop_*
 
 
 Drove a huge reduction in technical debt for a legacy Java/J2EE application, lowering licensing costs for the client $100K+ and implemented a modern continuous integration/continuous delivery pipeline to ensure stability and code quality. *_Java/Scala/Play/J2EE/Ant/Maven_*
@@ -133,29 +134,32 @@ Integrated a culture of mentorship and cross-team learning to introduce Agile sk
 
 Key member implementing a standards based versioned hyperdocument management system which supported versioned linking, compound documents, and single-source/snapshot based publishing.
 
-The product supported publishing highly versioned, compound documents, aircraft manuals, and military parts equipment drill downs through Interactive Electronic Technical Manuals (IETMs) . *_XML, XSLT, XSL:FO, Python, ZODB, C, XP_*
+
+The product supported publishing highly versioned, compound documents, aircraft manuals, and military parts equipment drill downs via Interactive Electronic Technical Manuals (IETMs) . *_XML, XSLT, XSL:FO, Python, ZODB, C, XP_*
 
 == keyworldy skills
 * Software Development
 * Software Architecture
+* Test Driven Development
 * eXtreme Programming
 * Automated Testing
+* Systems Thinking
 * Cloud Computing
 * Facilitation
-* Metacognition
 * Recruiting
-* Data Science
-* Systems Thinking
-* DevOps
+* Typescript
 * Python
 * Java
 * Swift
-* Nonviolent Communication
+* DevOps
+* Kubernetes
+* Data Science
 * Decision-making
 * Active Listening
 * Agile Methodologies
 * Product Development
 * Coaching and Mentoring
+* Nonviolent Communication
 
 == education
 University of Minnesota, Minneapolis Bachelors Of Mathematics
@@ -172,8 +176,8 @@ location:: Den Haag, NL,
 hobbies:: 
 
 * Avid Sea Kayaker in and around the New York Harbor - I circumnavigated Manhattan!
-* omafiets riding incredibly long distances
-* string processing in rust
+* omafiets riding incredibly long distances - I semicircumnavigated The Netherlands!
+* string processing in rust - I circumnavigated a stack of slices!
 
 == socials
 linkedIn:: https://www.linkedin.com/in/jshreynolds/
