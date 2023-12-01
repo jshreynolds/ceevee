@@ -1,6 +1,6 @@
 = Joshua Reynolds
-:title: Joshua Reynolds - CV
-:description: The compelling tale of one human's journey to the moment you are reading this with selected flattering highlights. Enjoy!
+:title: Joshua Reynolds - Curriculum Vitae
+:description: The compelling tale of one human's journey from the beginning of a career to the moment you are reading... now with selected flattering highlights! Enjoy!
 
 _technical leadership_
 
@@ -8,37 +8,37 @@ _technical leadership_
 With years of success building great digital products around the world, I lead with compassion and by example. I love shipping high quality code with the rest of the team while bringing strategic thinking to steer us safely through the turbulent waters of the digital sea. My tools of choice are deep technical know-how, evidence, empathy, clear and dynamic communication, a growth mindset and a colorful terminal theme.
 
 == offering
-
 * Highly available software systems through robust architecture and design, agile footing, thoughtful crumple zones and the experienced application of modern software wisdom
 * Powerful communication skills to build shared understanding between business and technical stakeholders and effectively connect with our customers and clients
-* Staff development through establishing honest self-evaluation and learning and coaching as a core norms
+* Staff development through establishing honest self-evaluation with learning and coaching as a core norms
 * A trusting environment where diversity and self-expression are encouraged and connection and common ground are celebrated
 * Increased energy and joy in the workplace
 * A sincere willingness to be wrong and learn from it
 * Fun
 
 == experience
-
 === Software Architect / People Manager - bettermarks, GmbH, Berlin/Den Haag
 _Jan 2021 - Present_
 
 Joined this adaptive math software company to practice broad impact work and improve the organization's capacity for self-awareness and learning by improving the effectiveness of our technical and social systems.  This includes identifying and establishing productive feedback loops in both software -- build systems, unit tests, development environments, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more. I am hands-on and use my deep practitioner's experience to help us stay grounded and appropriately "whelmed" as we give it a go!
 
 
-==== key outcomes
+==== key accomplishments
+Drove migration and adoption of cloud native design and implementation of our flagship product, ending years in a bare metal data center and freeing up the teams for more loosely coupled development and deployment of their services. ** kubernetes, Ionos, AWS, EKS, Postgresql, Mongo Atlas **
 
-Pioneered development of company-wide System Design Documentation.  Instituted diagrams as code, arc42 architectural structure and version controlled Architectural Decision Records (ADRs) to better visualize, document and communicate high level architecture of complex and complicated subsystems and domains and support better "big picture" decision-making *_C4, structurizr, Asciidoc, arc42_*
+Pioneered development of company-wide System Design Documentation System.  Instituted diagrams as code, arc42 architectural structure and version controlled Architectural Decision Records (ADRs) to better visualize, document and communicate high level architecture of complex and complicated subsystems and domains and support better "big picture" decision-making across many domains and teams. ** C4, structurizr, Asciidoc, arc42, EKS, AWS **
 
-Architected AWS Organization and SSO design and led migration from haphazard legacy user accounts and permissions to clean IaC implemented approach. *_cdk, TypeScript, AWS, AWS CloudFormation_*
+Led creation of AWS Organization and SSO design and led migration from haphazard legacy user accounts and permissions to clean & tested Infrastructure as Code (IaC) implementation approach. ** cdk, TypeScript, AWS, AWS CloudFormation **
 
-Led data breach incident response, and created mitigation strategy and adoption of MFA and additional security policies across the organization.  Continued security improvements by migrating shared accounts and personal credentials to SSO provisioned Bitwarden service and onboarding and training of impacted staff. *_AzureAD, Bitwarden_*
+Architected, designed and supported company flagship product and it's team resulting in an on-time and successful launch. ** React, SingleSPA, GraphQL, Python, Pyramid, EventSourcing/CQRS ** 
 
-Refactored and supported improvements to local developer stack environment. Implemented support for Apple M1 architecture based machines. *_docker, docker-compose, kong, bash, nginx, asciidoc_*
+Led data breach incident response, and created mitigation strategy and adoption of MFA and additional security policies across the organization.  Continued security improvements by migrating shared accounts and personal credentials to SSO provisioned Bitwarden service and onboarding and training of impacted staff. ** AzureAD, Bitwarden **
 
-Wrote and delivered hands-on pact-based testing workshop and evangelized migrating to pact for microservice testing in the organization. *_Pact, Python, TypeScript_*
+Refactored and supported improvements to local developer stack environment. Implemented support for Apple M1 architecture based machines. ** docker, docker-compose, kong, bash, nginx, asciidoc ** 
+
+Wrote and delivered hands-on pact testing workshop and led adoption of consumer-driven testing for microservice testing across the organization allowing for more granular and flexible release cycles and dependency management. ** Pact, Python, TypeScript ** 
 
 Rolled out and deepened practice of Radical Candor.  Although I'm not beholden to the framework, it's a nice and simple model for giving and receiving feedback.
-
 
 === DevOps Leadership at Untasked, Remote, US
 _March 2020 - Dec 2021_
@@ -47,95 +47,78 @@ Helped establish the DevOps mindset, tool-set, and practices at the productivity
 
 The work was **very** scrappy & hands-on.  I did whatever needed doing and filled any gaps that arose. My primary focus was on DevOps technical architecture and implementation with some full stack development thrown in when needed.
 
-==== key contributions
+==== key accomplishments
+Designed/Created all CI/CD architecture and pipelines reducing deployment and testing time to seconds/minutes.
 
-* Designed/Created all CI/CD architecture and pipelines
-* Designed and integrated NLP pipeline for conversational task creation
-* Created Unit and System tests and designed test automation framework
-* Migration codebase from JavaScript to TypeScript
-* Designed and Deployed Helm based Kubernetes infrastructure
-* Architected, integrated and deployed to Google Cloud Platform
-* Designed and implemented Terraform infrastructure components
+Designed and integrated NLP pipeline for conversational task creation allowing for product experimentation.
+
+Created Unit and System tests and designed test automation framework reducing regressions and increasing developer confidence.
+
+Championed and led migration from JavaScript to TypeScript leading to improved code quality and reduced runtime errors / time spent debugging javascript bugs.
+
+Designed and Deployed Helm based Kubernetes infrastructure and greatly simplified containerized deployment.
+
+Architected, integrated and deployed to Google Cloud Platform and Terraform infrastructure components allowing for better management of system design and configuration.
 
 === Principal Engineer / Consultant -- Engineering & Product Management at Reaktor, Inc, New York City
 _October 2016 - March 2020_
 
-
 Recruited to this Finland-based digital strategy, design, and technology consultancy for strong architectural and technical acumen, a growth mindset, and superior communications skills to lead large-scale digital technology product development and project teams, spearhead internal development, and coach internal staff.
 
-==== key outcomes
-Led the creation a web application/data pipeline product to aggregate and transform 100M records of daily Nielson viewing data into an query optimized data store.  This provided Viacom's sales team with real time information to support their sales process, reducing research request turnaround time from up to 6 days to less than a minute. *_React, Typescript, Python, Pandas, GraphQL, Databricks_*
+==== key accomplishments
+Led the creation a web application/data pipeline product to aggregate and transform a daily 100M records of Nielson viewing data into an query optimized data store.  This provided Viacom's sales team with real time information to support their sales process, reducing research request turnaround time from up to 6 days to less than a minute. ** React, Typescript, Python, Pandas, GraphQL, Databricks ** 
 
-
-Led a high-performance cross-functional team to create a novel hybrid application and build out a multichannel education platform. Managed the design of a supporting application development training module and trained and coached the client's teams on the methodology and approach. *_React, React Native, Node.js_*
-
+Led a high-performance cross-functional team to create a novel hybrid application and build out a multichannel education platform. Managed the design of a supporting application development training module and trained and coached the client's teams on the methodology and approach. ** React, React Native, Node.js ** 
 
 Built successful partnerships with NYU and the 3 NYC libraries to deliver Reaktor's Elements of AI to the public through a flipped classroom by including it as a key pillar of the NYU proposed Center for Responsible AI.
 
-
 Created a regular forum to provide employees a safe arena to voice issues, encourage open conversation, and plan improvements of the culture and systems.
 
-
 Coached team members to find innovative ways to approach and attain their workplace goals -- One developer coachee pursued his ambition into a sales role which lead to him winning a $250K contract for the business.
-
 
 === CTO | Cofounder at Bloopco, Inc., Los Angeles
 _May 2015 - September 2016_
 
 Built this innovative health tech company from the ground up and successfully developed an app that leveraged biometrics to foster and encourage healthy behaviors through game play.
 
-==== key outcomes
+==== key accomplishments
 Drove the entire go-to-market strategy, including prototyping the technology and product research and build-out.
-
 
 Developed and implemented a heart rate algorithm that detected stress reduction to identify the impact of stress reducing breathing techniques.
 
-
 Designed and developed our signature game "The Way of the Bow" and created a swift animation library to extend limited iOS functionality.
 
-
 Produced the first app on the Apple Watch to use biometric data as game controls.
-
 
 === Principal Consultant at The Electric Hand Ltd., New York City
 _August 2006 - May 2015_
 
 Led the start-up of this digital consultancy, serving the software and entertainment industries. Managed all daily operations within a highly competitive markets and drove product development, engineering, and video production.
 
-==== key projects
-Hired, trained, and mentored a team of junior developers and grew technical skills to deliver significant upgrades on a challenging legacy product. *_Java/Scala/Play/J2EE/Ant/Maven_*
+==== key accomplishments
+Hired, trained, and mentored a team of junior developers and grew technical skills to deliver significant upgrades on a challenging legacy product. ** Java/Scala/Play/J2EE/Ant/Maven ** 
 
+Edited the last 2 seasons of Futurama, earning recognition for editing excellence. ** Final Cut Pro/Adobe After Effects/Adobe Photoshop ** 
 
-Edited the last 2 seasons of Futurama, earning recognition for editing excellence. *_Final Cut Pro/Adobe After Effects/Adobe Photoshop_*
+Drove a huge reduction in technical debt for a legacy Java/J2EE application, lowering licensing costs for the client $100K+ and implemented a modern continuous integration/continuous delivery pipeline to ensure stability and code quality. ** Java/Scala/Play/J2EE/Ant/Maven ** 
 
+Led full architecture and development of a Flask Application for microsubscriptions to support ad free journalism. ** Flask/python/Stripe/PostgreSQL ** 
 
-Drove a huge reduction in technical debt for a legacy Java/J2EE application, lowering licensing costs for the client $100K+ and implemented a modern continuous integration/continuous delivery pipeline to ensure stability and code quality. *_Java/Scala/Play/J2EE/Ant/Maven_*
-
-
-Led full architecture and development of a Flask Application for microsubscriptions to support ad free journalism. *_Flask/python/Stripe/PostgreSQL_*
-
-
-Designed and built a risk analysis product using Bayesian mathematics to help predict risk of software project failure. SPA and Django backed API and integrated with numpy for advanced mathematical modeling capabilities. *_Angular/Django/numpy/pandas/python_*
-
+Designed and built a risk analysis product using Bayesian mathematics to help predict risk of software project failure. SPA and Django backed API and integrated with numpy for advanced mathematical modeling capabilities. ** Angular/Django/numpy/pandas/python ** 
 
 === Senior Developer / Software Development Manager at Innodata Isogen, Austin, TX & Gurgaon, India
 _June 2000 - February 2006_
+
 Led the Professional Services division and managed the Professional Services Team in India in the execution of complex technical projects, including requirements gathering, design, development and integration of structured data for Fortune 500 clients.
 
-==== key outcomes
+==== key accomplishments
 Transformed the under-performing professional services division into a high-caliber team while growing staff from 4 to 17 professionals.
-
 
 Increased staff satisfaction leading to 100% retention during my tenure in a highly competitive hiring environment.
 
-
 Integrated a culture of mentorship and cross-team learning to introduce Agile skills, improve project success, and enhance customer satisfaction.
 
-
-Key member implementing a standards based versioned hyperdocument management system which supported versioned linking, compound documents, and single-source/snapshot based publishing.
-
-
-The product supported publishing highly versioned, compound documents, aircraft manuals, and military parts equipment drill downs via Interactive Electronic Technical Manuals (IETMs) . *_XML, XSLT, XSL:FO, Python, ZODB, C, XP_*
+Key member implementing a standards based versioned hyperdocument management system which supported versioned linking, compound documents, and single-source/snapshot based publishing.  This allowed the management of highly versioned, compound documents, aircraft manuals, and military parts equipment drill downs via Interactive Electronic Technical Manuals (IETMs) . ** XML, XSLT, XSL:FO, Python, Java, ZODB, C, XP ** 
 
 == keyworldy skills
 * Software Development
@@ -172,12 +155,12 @@ University of Minnesota, Minneapolis Bachelors Of Mathematics
 
 == personal deets
 
-location:: Den Haag, NL,
-hobbies:: 
+location:: Den Haag, Nederland
 
+hobbies:: 
 * Avid Sea Kayaker in and around the New York Harbor - I circumnavigated Manhattan!
-* omafiets riding incredibly long distances - I semicircumnavigated The Netherlands!
-* string processing in rust - I circumnavigated a stack of slices!
+* Dedicated omafiets rider - I semicircumnavigated The Netherlands!
+* Passionate Rust string processor - I circumnavigated a stack of slices!
 
 == socials
 linkedIn:: https://www.linkedin.com/in/jshreynolds/
