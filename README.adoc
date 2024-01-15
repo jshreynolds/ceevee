@@ -17,22 +17,22 @@ With years of success building great digital products around the world, I lead w
 * Fun
 
 == experience
-=== Software Architect / People Manager - bettermarks, GmbH, Berlin/Den Haag
-_Jan 2021 - Present_
 
-Joined this adaptive math software company to practice broad impact work and improve the organization's capacity for self-awareness and learning by improving the effectiveness of our technical and social systems.  This includes identifying and establishing productive feedback loops in both software -- build systems, unit tests, development environments, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more. I am hands-on and use my deep practitioner's experience to help us stay grounded and appropriately "whelmed" as we give it a go!
+=== Software & Security Architect / People Manager - bettermarks, GmbH, Berlin/Den Haag
+_Jan 2022 - Jan 2024_
 
+Joined this adaptive math software company to practice broad impact work and improve the organization's capacity for self-awareness and learning by improving the effectiveness of our technical and social systems.  This includes identifying and establishing productive feedback loops in both software -- build systems, unit tests, development environments, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more. Internally recruited to guide Security Architecture and systematize security improvements throughout the organization's sociotechnical systems.
 
 ==== key accomplishments
 Drove migration and adoption of cloud native design and implementation of our flagship product, ending years in a bare metal data center and freeing up the teams for more loosely coupled development and deployment of their services. ** kubernetes, Ionos, AWS, EKS, Postgresql, Mongo Atlas **
 
 Pioneered development of company-wide System Design Documentation System.  Instituted diagrams as code, arc42 architectural structure and version controlled Architectural Decision Records (ADRs) to better visualize, document and communicate high level architecture of complex and complicated subsystems and domains and support better "big picture" decision-making across many domains and teams. ** C4, structurizr, Asciidoc, arc42, EKS, AWS **
 
+Led data breach incident response, and created mitigation strategy and adoption of MFA and additional security policies across the organization.  Continued security improvements by migrating shared accounts and personal credentials to SSO provisioned Bitwarden service and onboarding and training of impacted staff. ** AzureAD, Bitwarden **
+
 Led creation of AWS Organization and SSO design and led migration from haphazard legacy user accounts and permissions to clean & tested Infrastructure as Code (IaC) implementation approach. ** cdk, TypeScript, AWS, AWS CloudFormation **
 
 Architected, designed and supported company flagship product and it's team resulting in an on-time and successful launch. ** React, SingleSPA, GraphQL, Python, Pyramid, EventSourcing/CQRS ** 
-
-Led data breach incident response, and created mitigation strategy and adoption of MFA and additional security policies across the organization.  Continued security improvements by migrating shared accounts and personal credentials to SSO provisioned Bitwarden service and onboarding and training of impacted staff. ** AzureAD, Bitwarden **
 
 Refactored and supported improvements to local developer stack environment. Implemented support for Apple M1 architecture based machines. ** docker, docker-compose, kong, bash, nginx, asciidoc ** 
 
