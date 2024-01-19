@@ -5,9 +5,9 @@
 _technical leadership_
 
 == about
-With years of success building great digital products around the world, I lead with compassion and by example. I love shipping high quality code with the rest of the team while bringing strategic thinking to steer us safely through the turbulent waters of the digital sea. My tools of choice are deep technical know-how, evidence, empathy, clear and dynamic communication, a growth mindset and a colorful terminal theme.
+With years of success building great digital products around the world, I lead with compassion and by example. I love shipping high quality code with the rest of the team and bringing strategic thinking to steer us safely through the turbulent waters of the digital sea. My tools of choice are deep technical know-how, insatiable curiosity, data, empathy, dynamic communication, a growth mindset and a colorful terminal theme.
 
-== offering
+== offerings
 * Highly available software systems through robust architecture and design, agile footing, thoughtful crumple zones and the experienced application of modern software wisdom
 * Powerful communication skills to build shared understanding between business and technical stakeholders and effectively connect with our customers and clients
 * Staff development through establishing honest self-evaluation with learning and coaching as a core norms
@@ -24,6 +24,7 @@ _Jan 2022 - Jan 2024_
 Joined this adaptive math software company to practice broad impact work and improve the organization's capacity for self-awareness and learning by improving the effectiveness of our technical and social systems.  This includes identifying and establishing productive feedback loops in both software -- build systems, unit tests, development environments, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more. Internally recruited to guide Security Architecture and systematize security improvements throughout the organization's sociotechnical systems.
 
 ==== key accomplishments
+---
 Drove migration and adoption of cloud native design and implementation of our flagship product, ending years in a bare metal data center and freeing up the teams for more loosely coupled development and deployment of their services. ** kubernetes, Ionos, AWS, EKS, Postgresql, Mongo Atlas **
 
 Pioneered development of company-wide System Design Documentation System.  Instituted diagrams as code, arc42 architectural structure and version controlled Architectural Decision Records (ADRs) to better visualize, document and communicate high level architecture of complex and complicated subsystems and domains and support better "big picture" decision-making across many domains and teams. ** C4, structurizr, Asciidoc, arc42, EKS, AWS **
@@ -40,7 +41,7 @@ Wrote and delivered hands-on pact testing workshop and led adoption of consumer-
 
 Rolled out and deepened practice of Radical Candor.  Although I'm not beholden to the framework, it's a nice and simple model for giving and receiving feedback.
 
-=== DevOps Leadership at Untasked, Remote, US
+=== Principal DevOps Engineer at Untasked, Remote, US
 _March 2020 - Dec 2021_
 
 Helped establish the DevOps mindset, tool-set, and practices at the productivity software startup Untasked.
@@ -48,6 +49,7 @@ Helped establish the DevOps mindset, tool-set, and practices at the productivity
 The work was **very** scrappy & hands-on.  I did whatever needed doing and filled any gaps that arose. My primary focus was on DevOps technical architecture and implementation with some full stack development thrown in when needed.
 
 ==== key accomplishments
+---
 Designed/Created all CI/CD architecture and pipelines reducing deployment and testing time to seconds/minutes.
 
 Designed and integrated NLP pipeline for conversational task creation allowing for product experimentation.
@@ -60,7 +62,7 @@ Designed and Deployed Helm based Kubernetes infrastructure and greatly simplifie
 
 Architected, integrated and deployed to Google Cloud Platform and Terraform infrastructure components allowing for better management of system design and configuration.
 
-=== Principal Engineer / Consultant -- Engineering & Product Management at Reaktor, Inc, New York City
+=== Principal Engineer at Reaktor, Inc, New York City
 _October 2016 - March 2020_
 
 Recruited to this Finland-based digital strategy, design, and technology consultancy for strong architectural and technical acumen, a growth mindset, and superior communications skills to lead large-scale digital technology product development and project teams, spearhead internal development, and coach internal staff.
@@ -82,6 +84,7 @@ _May 2015 - September 2016_
 Built this innovative health tech company from the ground up and successfully developed an app that leveraged biometrics to foster and encourage healthy behaviors through game play.
 
 ==== key accomplishments
+---
 Drove the entire go-to-market strategy, including prototyping the technology and product research and build-out.
 
 Developed and implemented a heart rate algorithm that detected stress reduction to identify the impact of stress reducing breathing techniques.
@@ -96,6 +99,7 @@ _August 2006 - May 2015_
 Led the start-up of this digital consultancy, serving the software and entertainment industries. Managed all daily operations within a highly competitive markets and drove product development, engineering, and video production.
 
 ==== key accomplishments
+---
 Hired, trained, and mentored a team of junior developers and grew technical skills to deliver significant upgrades on a challenging legacy product. ** Java/Scala/Play/J2EE/Ant/Maven ** 
 
 Edited the last 2 seasons of Futurama, earning recognition for editing excellence. ** Final Cut Pro/Adobe After Effects/Adobe Photoshop ** 
@@ -112,6 +116,7 @@ _June 2000 - February 2006_
 Led the Professional Services division and managed the Professional Services Team in India in the execution of complex technical projects, including requirements gathering, design, development and integration of structured data for Fortune 500 clients.
 
 ==== key accomplishments
+---
 Transformed the under-performing professional services division into a high-caliber team while growing staff from 4 to 17 professionals.
 
 Increased staff satisfaction leading to 100% retention during my tenure in a highly competitive hiring environment.
@@ -120,7 +125,7 @@ Integrated a culture of mentorship and cross-team learning to introduce Agile sk
 
 Key member implementing a standards based versioned hyperdocument management system which supported versioned linking, compound documents, and single-source/snapshot based publishing.  This allowed the management of highly versioned, compound documents, aircraft manuals, and military parts equipment drill downs via Interactive Electronic Technical Manuals (IETMs) . ** XML, XSLT, XSL:FO, Python, Java, ZODB, C, XP ** 
 
-== keyworldy skills
+== key skills 
 * Software Development
 * Software Architecture
 * Test Driven Development

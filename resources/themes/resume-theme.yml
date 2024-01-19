@@ -1,0 +1,15 @@
+extends: default
+
+font:
+  catalog:
+    merge: true
+    Heavy Nerd: HeavyDataNerdFont-Regular.ttf
+
+base:
+  font-family: Helvetica
+
+heading:
+  h1-text-align: left
+  h1-font-family: Heavy Nerd
+  h2-font-family: Heavy Nerd
+  h2-font-size: 32

@@ -7,9 +7,10 @@ ASCIIDOCTOR_IMAGE = "asciidoctor/docker-asciidoctor"
 SRC_DIR = "./src"
 BUILD_DIR = "./build"
 RESUME = "README.adoc"
+TARGET_NAME = ""
 
 
-async def docs():
+async def generate_resume():
     config = dagger.Config(log_output=sys.stderr)
 
     async with dagger.Connection(config) as client:
@@ -32,6 +33,12 @@ async def docs():
                     "asciidoctor-diagram",
                     "-D",
                     BUILD_DIR,
+                    "-a",
+                    "pdf-theme=resume",
+                    "-a",
+                    "pdf-themesdir=resources/themes",
+                    "-a",
+                    "pdf-fontsdir=resources/fonts",
                     "-o",
                     "joshua.reynolds.resume.pdf",
                     RESUME,
@@ -47,4 +54,4 @@ async def docs():
         print(e)
 
 
-anyio.run(docs)
+anyio.run(generate_resume)

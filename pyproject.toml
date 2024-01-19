@@ -3,7 +3,7 @@ name = "resumé"
 version = "0.1.0"
 description = "Asciidoc version of my resumé"
 authors = ["Joshua Reynolds <jreynolds@electrichand.com>"]
-readme = "README.md"
+readme = "README.adoc"
 
 [tool.poetry.dependencies]
 python = "^3.11"
