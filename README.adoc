@@ -1,6 +1,6 @@
 = Joshua Reynolds
 :title: Joshua Reynolds - Curriculum Vitae
-:description: The compelling tale of one human's journey from the beginning of a career to the moment you are reading... now with selected flattering highlights! Enjoy!
+:description: The compelling tale of one human's journey from the beginning of a career to close to the moment you are reading. Enjoy!
 
 _technical leadership_
 
@@ -17,9 +17,12 @@ With years of success building great digital products around the world, I lead w
 
 == past experience
 
-=== Software & Security Architect / People Manager - bettermarks, GmbH, Berlin/Den Haag
-[.date]
-_Jan 2022 - Jan 2024_
+=== Software & Security Architect / People Manager <> _bettermarks, GmbH_
+[cols="1,1", grid=none, frame=none, options="header"]
+|===
+|*Berlin, Germany & The Hague, The Netherlands*
+>|_Jan 2022 - Jan 2024_
+|===
 
 I joined this adaptive math software company to practice broad impact work and improve the organization's capacity for self-awareness and learning by improving the effectiveness of our technical and social systems.  This includes identifying and establishing productive feedback loops in both software -- build systems, unit tests, development environments, observability measures -- and human systems -- Radical Candor, blameless postmortems, modeling feedback requests, and more. Internally recruited to guide Security Architecture and systematize security improvements throughout the organization's sociotechnical systems.
 
@@ -45,9 +48,12 @@ Refactored and supported improvements to local developer environment stack. Impl
 Led adoption of consumer-driven testing for microservice testing across the organization allowing for more granular and flexible release cycles and dependency management. +
 `_Pact, Python, TypeScript_` 
 
-=== Principal DevOps Engineer at Untasked, Remote, US
-[.date]
-_March 2020 - Dec 2021_
+=== Principal DevOps Engineer <> _Untasked_
+[cols="1,1", grid=none, frame=none, options="header"]
+|===
+|*Remote (USA)*
+>|_March 2020 - Dec 2021_
+|===
 
 Helped establish the DevOps mindset, tool-set, and practices at the productivity software startup Untasked.
 
@@ -66,9 +72,12 @@ Designed and Deployed Helm based Kubernetes infrastructure and greatly simplifie
 
 Architected, integrated and deployed to Google Cloud Platform and Terraform infrastructure components allowing for better management of system design and configuration.
 
-=== Principal Engineer at Reaktor, Inc, New York City
-[.date]
-_October 2016 - March 2020_
+=== Principal Engineer <> _Reaktor, Inc_
+[cols="1,1", grid=none, frame=none, options="header"]
+|===
+|*New York City, New York, USA*
+>|_October 2016 - March 2020_
+|===
 
 Recruited to this Finland-based digital strategy, design, and technology consultancy for strong architectural and technical acumen, a growth mindset, and superior communications skills to lead large-scale digital technology product development and project teams, spearhead internal development, and coach internal staff.
 
@@ -84,9 +93,12 @@ Built successful partnerships with NYU and the 3 NYC libraries to deliver Reakto
 Coached team members to find innovative ways to approach and attain their workplace goals -- One developer coachee pursued his ambition into a sales role which lead to him winning a $250K contract for the business. +
 `_Brain-based coaching_`
 
-=== CTO | Cofounder at Bloopco, Inc., Los Angeles
-[.date]
-_May 2015 - September 2016_
+=== CTO | Cofounder <> _Bloopco, Inc._
+[cols="1,1", grid=none, frame=none, options="header"]
+|===
+|*Los Angeles, California, USA*
+>|_May 2015 - September 2016_
+|===
 
 Built this innovative health tech company from the ground up and successfully developed an app that leveraged biometrics to foster and encourage healthy behaviors through game play.
 
@@ -99,31 +111,37 @@ Designed and developed our signature game "The Way of the Bow" and created a swi
 
 Produced the first app on the Apple Watch to use biometric data as game controls.
 
-=== Principal Consultant at The Electric Hand Ltd., New York City
-[.date]
-_August 2006 - May 2015_
+=== Principal Consultant <> _The Electric Hand Ltd._
+[cols="1,1", grid=none, frame=none, options="header"]
+|===
+|*New York City, New York, USA*
+>|_August 2006 - May 2015_
+|===
 
 Led the start-up of this digital consultancy, serving the software and entertainment industries. Managed all daily operations within a highly competitive markets and drove product development, engineering, and video production.
 
 ==== key accomplishments
 Hired, trained, and mentored a team of junior developers and grew technical skills to deliver significant upgrades on a challenging legacy product. +
-`_Java/Scala/Play/J2EE/Ant/Maven_` 
+`_Java, Scala, Play, J2EE, Ant, Maven_` 
 
 Edited the last 2 seasons of Futurama, earning recognition for editing excellence. +
-`_Final Cut Pro/Adobe After Effects/Adobe Photoshop_` 
+`_Final Cut Pro, Adobe After Effects, Adobe Photoshop_` 
 
 Drove a huge reduction in technical debt for a legacy Java/J2EE application, lowering licensing costs for the client $100K+ and implemented a modern continuous integration/continuous delivery pipeline to ensure stability and code quality. +
-`_Java/Scala/Play/J2EE/Ant/Maven_` 
+`_Java, Scala, Play, J2EE, Ant, Maven_` 
 
 Led full architecture and development of a Flask Application for microsubscriptions to support ad free journalism. +
-`_Flask/python/Stripe/PostgreSQL_` 
+`_Flask, python, Stripe, PostgreSQL_` 
 
 Designed and built a risk analysis product using Bayesian mathematics to help predict risk of software project failure. SPA and Django backed API and integrated with numpy for advanced mathematical modeling capabilities. +
-`_Angular/Django/numpy/pandas/python_` 
+`_Angular, Django, numpy, pandas, python_` 
 
-=== Senior Developer / Software Development Manager at Innodata Isogen, Austin, TX & Gurgaon, India
-[.date]
-_June 2000 - February 2006_
+=== Senior Developer / Software Development Manager <> _Innodata Isogen_
+[cols="1,1", grid=none, frame=none, options="header"]
+|===
+|*Austin, Texas, USA & Gurgaon, India* 
+>|_June 2000 - February 2006_
+|===
 
 Led the Professional Services division and managed the Professional Services Team in India in the execution of complex technical projects, including requirements gathering, design, development and integration of structured data for Fortune 500 clients.
 
@@ -137,8 +155,10 @@ Integrated a culture of mentorship and cross-team learning to introduce Agile sk
 Key member implementing a standards based versioned hyperdocument management system which supported versioned linking, compound documents, and single-source/snapshot based publishing.  This allowed the management of highly versioned, compound documents, aircraft manuals, and military parts equipment drill downs via Interactive Electronic Technical Manuals (IETMs) . +
 `_XML, XSLT, XSL:FO, Python, Java, ZODB, C, XP_` 
 
-== noteworthy skills 
-* Software Development
+== core skills 
+[cols="1,1", grid=none, frame=none]
+|===
+a|* Software Development
 * Software Architecture
 * Test Driven Development
 * eXtreme Programming
@@ -149,7 +169,8 @@ Key member implementing a standards based versioned hyperdocument management sys
 * Recruiting
 * Typescript
 * Python
-* Java
+
+a|* Java
 * Swift
 * DevOps
 * Kubernetes
@@ -160,6 +181,7 @@ Key member implementing a standards based versioned hyperdocument management sys
 * Product Development
 * Coaching and Mentoring
 * Nonviolent Communication
+|===
 
 == education
 University of Minnesota, Minneapolis Bachelors Of Mathematics
@@ -170,7 +192,7 @@ University of Minnesota, Minneapolis Bachelors Of Mathematics
 * Certified VitalSmarts Crucial Conversations Trainer
 * Certified Coastal Kayak Trip Leader
 
-== personal deets
+== personal details
 
 location:: Den Haag, Nederland
 
@@ -179,7 +201,7 @@ hobbies::
 * Dedicated omafiets rider - I semicircumnavigated The Netherlands!
 * Passionate Rust string processor - I circumnavigated a stack of slices!
 
-== socials
+== links
 linkedIn:: https://www.linkedin.com/in/jshreynolds/
 github:: https://github.com/jshreynolds
 resumé:: https://github.com/jshreynolds/ceevee
