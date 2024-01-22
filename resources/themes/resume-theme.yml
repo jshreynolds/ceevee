@@ -4,12 +4,46 @@ font:
   catalog:
     merge: true
     Heavy Nerd: HeavyDataNerdFont-Regular.ttf
-
+    Nerd: 3270NerdFontMono-Regular.ttf
+    Caskadyia: 
+      normal: CaskaydiaCoveNerdFont-Regular.ttf
+      bold: CaskaydiaCoveNerdFont-Bold.ttf
+      italic: CaskaydiaCoveNerdFont-Italic.ttf
+      bold_italic: CaskaydiaCoveNerdFont-BoldItalic.ttf
 base:
+#  font-family: Caskadyia
   font-family: Helvetica
 
+# Section Heading maps to h2
 heading:
   h1-text-align: left
-  h1-font-family: Heavy Nerd
-  h2-font-family: Heavy Nerd
-  h2-font-size: 32
+  h1-font-size: 24
+
+  h2-font-color: #222222
+  h2-border-color: #222222
+  h2-border-width: [2, 2, 2, 2]
+  h2-padding: [0, 0, 3, 10]
+  h2-font-size: 22
+
+  h3-border-color: #000000
+  h3-border-width: [0, 0, 1, 0]
+  h3-padding: [0, 0, 2, 0]
+  h3-margin: [4, 0, 0, 0]
+  h3-font-size: 18
+
+  h4-border-color: #000000
+  h4-border-width: [0, 0, 1, 0]
+  h4-padding: [0, 0, 2, 0]
+  h4-font-size: 14
+
+role:
+  date:
+    text-align: right
+
+codespan:
+  font-family: Courier
+  font-color: #000000
+  background-color: #EEEEEE
+  border-color: #EEEEEE
+  border-width: 6
+  border-radius: 0.1
