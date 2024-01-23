@@ -53,7 +53,7 @@ async def generate_resume():
 
         e = await build_dir.entries()
 
-        print(e)
+        print(RESUME_NAME)
 
 
 anyio.run(generate_resume)
