@@ -30,7 +30,7 @@ jobs:
       
       - name: build the resumé
         run: |
-          poetry run generate.py
+          poetry run python generate.py
 
       - name: extrapolate the version number
         run: echo "::set-output name=version::$(poetry version --short)"
