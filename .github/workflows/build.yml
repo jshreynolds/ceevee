@@ -1,12 +1,13 @@
 name: "Curriculum Vitae Publisher"
 on:
   push:
-    branches:
-      - main
+    tags:
+      - '*'
+      
 
 jobs:
-  generate_resume:
-    name: Generate Resumé
+  release_resume:
+    name: Generate and Release Tagged Version of Curriculum Vitae
 
     runs-on: ubuntu-latest
 
@@ -32,21 +33,25 @@ jobs:
         run: |
           poetry run python publish_ceevee.py
 
-      - name: extrapolate the version number
-        run: echo "release_version=$(poetry version --short)" >> "$GITHUB_ENV"
-
-      - name: tag the repo with the current version
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git tag $release_version
-          git push origin $release_version
-
-      - name: store the cv
-        uses: actions/upload-artifact@v4
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          name: resume-${{ env.release_version }}
-          path: build/*.pdf
-          if-no-files-found: error
-            
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: false
+          prerelease: false
+
+      - name: Upload Release Asset
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          asset_path: ./build/joshua.reynolds.${{ github.ref }}.pdf
+          asset_name: joshua.reynolds.${{ github.ref }}.pdf
+          asset_content_type: application/pdf
 
