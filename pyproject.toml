@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ceevee"
-version = "1.0.4"
+version = "1.0.5"
 description = "Asciidoc version of my resumé"
 authors = ["Joshua Reynolds <jreynolds@electrichand.com>"]
 readme = "README.adoc"
