@@ -2,7 +2,7 @@ name: "Curriculum Vitae Publisher"
 on:
   push:
     branches:
-      - $default-branch
+      - main
 
 jobs:
   generate_resume:
