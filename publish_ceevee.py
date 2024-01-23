@@ -2,11 +2,13 @@ import sys
 
 import anyio
 import dagger
+from importlib.metadata import version
 
 ASCIIDOCTOR_IMAGE = "asciidoctor/docker-asciidoctor"
 SRC_DIR = "./src"
 BUILD_DIR = "./build"
 RESUME = "README.adoc"
+VERSION = version("ceevee")
 
 
 async def generate_resume():
@@ -39,7 +41,7 @@ async def generate_resume():
                     "-a",
                     "pdf-fontsdir=resources/fonts",
                     "-o",
-                    "joshua.reynolds.resume.pdf",
+                    f'joshua.reynolds.resume.{VERSION}.pdf',
                     RESUME,
                 ]
             )

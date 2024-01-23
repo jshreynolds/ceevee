@@ -30,11 +30,10 @@ jobs:
       
       - name: build the resumé
         run: |
-          poetry run python generate.py
+          poetry run python publish_ceevee.py
 
       - name: extrapolate the version number
-        run: echo "::set-output name=version::$(poetry version --short)"
-        id: version
+        run: echo "release_version==$(poetry version --short)" >> "$GITHUB_ENV"
 
       # - name: release the resume
       #   uses: actions/
