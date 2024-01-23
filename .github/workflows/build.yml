@@ -1,25 +1,40 @@
-name: 'Curriculum Vitae Publisher'
+name: "Curriculum Vitae Publisher"
 on:
   push:
     branches:
-      - $default-branch 
+      - $default-branch
 
-jobs:  
+jobs:
   generate_resume:
     name: Generate Resumé
 
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-      - run: |
+      - name: checkout the code
+        uses: actions/checkout@v4
+
+      - name: install poetry (in order to use caching strategy)
+        run: |
           pipx install poetry
-      - uses: actions/setup-python@v5
+
+      - name: load python with poetry caching
+        uses: actions/setup-python@v5
         with:
           python-version: 3.11
-          cache: 'poetry'
+          cache: "poetry"
 
-      - run: |
-          poetry install
-      - run: |
-          poetry run generate.py
+      - name: install poetry dependencies
+        run: |
+          pipx ensurepath && poetry install
+      
+      - name: build the resumé
+        run: |
+          pipx esnurepath && poetry run generate.py
+
+      - name: extrapolate the version number
+        run: echo "::set-output name=version::$(poetry version --short)"
+        id: version
+
+      # - name: release the resume
+      #   uses: actions/
