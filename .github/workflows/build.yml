@@ -26,11 +26,11 @@ jobs:
 
       - name: install poetry dependencies
         run: |
-          pipx ensurepath && poetry install
+          poetry install
       
       - name: build the resumé
         run: |
-          pipx esnurepath && poetry run generate.py
+          poetry run generate.py
 
       - name: extrapolate the version number
         run: echo "::set-output name=version::$(poetry version --short)"
