@@ -1,17 +1,6 @@
 extends: default
 
-font:
-  catalog:
-    merge: true
-    Heavy Nerd: HeavyDataNerdFont-Regular.ttf
-    Nerd: 3270NerdFontMono-Regular.ttf
-    Caskadyia: 
-      normal: CaskaydiaCoveNerdFont-Regular.ttf
-      bold: CaskaydiaCoveNerdFont-Bold.ttf
-      italic: CaskaydiaCoveNerdFont-Italic.ttf
-      bold_italic: CaskaydiaCoveNerdFont-BoldItalic.ttf
 base:
-#  font-family: Caskadyia
   font-family: Helvetica
   font-color: #000000
 
