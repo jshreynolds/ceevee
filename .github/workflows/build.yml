@@ -36,7 +36,7 @@ jobs:
       - name: extrapolate the version number
         run: echo "release_version=$(poetry version --short)" >> "$GITHUB_ENV"
 
-      - name: Create Release
+      - name: create release
         id: create_release
         uses: actions/create-release@v1
         env:
@@ -47,14 +47,14 @@ jobs:
           draft: false
           prerelease: false
 
-      - name: Upload Release Asset
+      - name: upload release asset
         id: upload-release-asset 
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
-          asset_path: ./build/joshua.reynolds.${{ env.release_version }}
+          asset_path: ./build/joshua.reynolds.${{ github.ref }}.pdf
           asset_name: joshua.reynolds.${{ github.ref }}.pdf
           asset_content_type: application/pdf
 
