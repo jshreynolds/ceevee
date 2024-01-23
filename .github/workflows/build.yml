@@ -33,10 +33,11 @@ jobs:
           poetry run python publish_ceevee.py
 
       - name: extrapolate the version number
-        run: echo "release_version==$(poetry version --short)" >> "$GITHUB_ENV"
+        run: echo "release_version=$(poetry version --short)" >> "$GITHUB_ENV"
 
       - name: store the cv
         uses: actions/upload-artifact@v4
         with:
           name: resume
-          path: build/joshua.reynolds.resume.${{ env.release_version }}.pdf
+          path: build/*.pdf
+          if-no-files-found: error
