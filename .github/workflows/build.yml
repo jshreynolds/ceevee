@@ -35,5 +35,8 @@ jobs:
       - name: extrapolate the version number
         run: echo "release_version==$(poetry version --short)" >> "$GITHUB_ENV"
 
-      # - name: release the resume
-      #   uses: actions/
+      - name: store the cv
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume
+          path: build/joshua.reynolds.resume.${{ env.release_version }}.pdf

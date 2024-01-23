@@ -9,6 +9,7 @@ SRC_DIR = "./src"
 BUILD_DIR = "./build"
 RESUME = "README.adoc"
 VERSION = version("ceevee")
+RESUME_NAME = f"joshua.reynolds.resume.{VERSION}.pdf"
 
 
 async def generate_resume():
@@ -41,7 +42,7 @@ async def generate_resume():
                     "-a",
                     "pdf-fontsdir=resources/fonts",
                     "-o",
-                    f'joshua.reynolds.resume.{VERSION}.pdf',
+                    RESUME_NAME,
                     RESUME,
                 ]
             )
