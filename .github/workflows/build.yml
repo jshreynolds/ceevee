@@ -35,9 +35,18 @@ jobs:
       - name: extrapolate the version number
         run: echo "release_version=$(poetry version --short)" >> "$GITHUB_ENV"
 
+      - name: tag the repo with the current version
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git tag 
+          git push origin $release_version
+
       - name: store the cv
         uses: actions/upload-artifact@v4
         with:
-          name: resume
+          name: resume-${{ env.release_version }}
           path: build/*.pdf
           if-no-files-found: error
+            
+
