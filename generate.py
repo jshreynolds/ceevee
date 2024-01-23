@@ -7,7 +7,6 @@ ASCIIDOCTOR_IMAGE = "asciidoctor/docker-asciidoctor"
 SRC_DIR = "./src"
 BUILD_DIR = "./build"
 RESUME = "README.adoc"
-TARGET_NAME = ""
 
 
 async def generate_resume():

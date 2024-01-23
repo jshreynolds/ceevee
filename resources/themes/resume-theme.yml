@@ -58,7 +58,7 @@ codespan:
 table:
   head:
     background-color: $brand-code-highlight
-    border-width: 0
+    border-bottom-width: 0
     cell:
       padding: [2, 5, 0, 5]
 
