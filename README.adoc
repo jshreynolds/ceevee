@@ -70,7 +70,7 @@ Created Unit and System tests and designed test automation framework reducing re
 Championed and led migration from JavaScript to TypeScript leading to improved code quality and reduced runtime errors / time spent debugging javascript bugs.
 
 Designed and Deployed Helm based Kubernetes infrastructure and greatly simplified containerized deployment.
-`GCP, Help, Kubernetes`
+`GCP, Helm, Kubernetes`
 
 Architected, integrated and deployed to Google Cloud Platform and Terraform infrastructure components allowing for better management of system design and configuration.
 `Terraform, GCP, GithubActions`
