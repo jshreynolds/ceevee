@@ -52,20 +52,20 @@ files = [
 
 [[package]]
 name = "beartype"
-version = "0.16.4"
+version = "0.17.2"
 description = "Unbearably fast runtime type checking in pure Python."
 optional = false
 python-versions = ">=3.8.0"
 files = [
-    {file = "beartype-0.16.4-py3-none-any.whl", hash = "sha256:64865952f9dff1e17f22684b3c7286fc79754553b47eaefeb1286224ae8c1bd9"},
-    {file = "beartype-0.16.4.tar.gz", hash = "sha256:1ada89cf2d6eb30eb6e156eed2eb5493357782937910d74380918e53c2eae0bf"},
+    {file = "beartype-0.17.2-py3-none-any.whl", hash = "sha256:c22b21e1f785cfcf5c4d3d13070f532b6243a3ad67e68d2298ff08d539847dce"},
+    {file = "beartype-0.17.2.tar.gz", hash = "sha256:e911e1ae7de4bccd15745f7643609d8732f64de5c2fb844e89cbbed1c5a8d495"},
 ]
 
 [package.extras]
 all = ["typing-extensions (>=3.10.0.0)"]
-dev = ["autoapi (>=0.9.0)", "coverage (>=5.5)", "mypy (>=0.800)", "numpy", "pandera", "pydata-sphinx-theme (<=0.7.2)", "pytest (>=4.0.0)", "sphinx", "sphinx (>=4.2.0,<6.0.0)", "sphinxext-opengraph (>=0.7.5)", "tox (>=3.20.1)", "typing-extensions (>=3.10.0.0)"]
+dev = ["autoapi (>=0.9.0)", "coverage (>=5.5)", "equinox", "mypy (>=0.800)", "numpy", "pandera", "pydata-sphinx-theme (<=0.7.2)", "pytest (>=4.0.0)", "sphinx", "sphinx (>=4.2.0,<6.0.0)", "sphinxext-opengraph (>=0.7.5)", "tox (>=3.20.1)", "typing-extensions (>=3.10.0.0)"]
 doc-rtd = ["autoapi (>=0.9.0)", "pydata-sphinx-theme (<=0.7.2)", "sphinx (>=4.2.0,<6.0.0)", "sphinxext-opengraph (>=0.7.5)"]
-test-tox = ["mypy (>=0.800)", "numpy", "pandera", "pytest (>=4.0.0)", "sphinx", "typing-extensions (>=3.10.0.0)"]
+test-tox = ["equinox", "mypy (>=0.800)", "numpy", "pandera", "pytest (>=4.0.0)", "sphinx", "typing-extensions (>=3.10.0.0)"]
 test-tox-coverage = ["coverage (>=5.5)"]
 
 [[package]]
@@ -104,22 +104,21 @@ files = [
 
 [[package]]
 name = "dagger-io"
-version = "0.9.7"
+version = "0.9.11"
 description = "A client package for running Dagger pipelines in Python."
 optional = false
 python-versions = ">=3.10"
 files = [
-    {file = "dagger_io-0.9.7-py3-none-any.whl", hash = "sha256:20568b64382080b90f8a125972309bf1d37b86ba94e99f77568c614d3674d820"},
-    {file = "dagger_io-0.9.7.tar.gz", hash = "sha256:215dbcba66e644b02801ac270715129a043b97881c57193cbee7dcee47e92005"},
+    {file = "dagger_io-0.9.11-py3-none-any.whl", hash = "sha256:1a64efe794ac50c8fe304277393814ddef3218e4d3832dda3c0ba066d1643c32"},
+    {file = "dagger_io-0.9.11.tar.gz", hash = "sha256:9f5fbc18531afb74659e23ede037d36f52b45569a07ed476d2d1dd2ed506d7d4"},
 ]
 
 [package.dependencies]
 anyio = ">=3.6.2"
-beartype = ">=0.11.0"
+beartype = ">=0.17.0"
 cattrs = ">=22.2.0"
-gql = ">=3.4.0"
+gql = {version = ">=3.5.0", extras = ["httpx"]}
 graphql-core = ">=3.2.3"
-httpx = ">=0.23.1"
 platformdirs = ">=2.6.2"
 rich = ">=10.11.0"
 typing-extensions = ">=4.8.0"
@@ -139,6 +138,7 @@ files = [
 anyio = ">=3.0,<5"
 backoff = ">=1.11.1,<3.0"
 graphql-core = ">=3.2,<3.3"
+httpx = {version = ">=0.23.1,<1", optional = true, markers = "extra == \"httpx\""}
 yarl = ">=1.6,<2.0"
 
 [package.extras]
