@@ -9,7 +9,7 @@ readme = "README.adoc"
 python = "^3.11"
 
 [tool.poetry.group.dev.dependencies]
-dagger-io = "^0.9.7"
+dagger-io = "^0.10.0"
 
 [build-system]
 requires = ["poetry-core"]
